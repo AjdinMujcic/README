@@ -3,10 +3,8 @@
 
 
 
-Kratka biografija: Imam 18 godina i učenica sam trećeg razreda Elektrotehničke škole Tuzla, smjer tehničar računarstva. Zainteresovana sam za programiranje, razvoj softvera i moderne tehnologije. Volim učiti nove stvari i kontinuirano usavršavati svoje znanje iz oblasti informatike i računarstva.
+-Zovem se Ajdin Mujčić i imam 18 godina. Učenik sam trećeg razreda Elektrotehnička škola Tuzla, smjer tehničar računarstva. Posebno me zanimaju elektronika, računari i savremene tehnologije. Volim raditi na računaru, naučiti nove stvari i proširiti svoje znanje iz IT oblasti.
 
-Šta znam raditi: Posjedujem dobro znanje rada na računaru, programiranje i korištenje Office alata. Radim u programskim jezicima C++ I HTML, izrađujem jednostavne aplikacije i web stranice, te se snalazim u radu sa bazama podataka, mrežama i opreativnim sistemima. Također imam isustvo u istraživanju i rješavanju problema iz oblasti IT-a.
+-Poznajem rad u programskim jezicima C++ i HTML, izrađujem jednostavne programe i web stranice, imam osnovno znanje o računarskim mrežama, bazama podataka i operativnim sistemima. Snalažljiv sam u rješavanju tehničkih problema i volim praktičan rad vezan za elektroniku i računarske sisteme.
 
-Omiljeni predmet: Programiranje i računarske mreže - posebno uživam u izradi programa, rješavanju logičkih zadataka i učenju o funkcionisanju računarskih sistema i mreža.
-
-Kontakt/Škola: Elektrotehnička Škola Tuzla 
+-Najviše volim predmete vezane za programiranje i elektroniku jer uživam u logičkom razmišljanju, sastavljanju projekata i učenju kako funkcionišu računari i elektronski uređaji.
